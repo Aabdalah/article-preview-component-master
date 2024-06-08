@@ -186,6 +186,9 @@ article .profile-pic{
         width: 180px;
         padding: 0 5px;
     }
+    .attribution{
+    transform: translate(-50%, -47%);
+    text-align: center;
 }
 .attribution{
     position: absolute;
